@@ -24,7 +24,7 @@ A clean, interactive to-do list application built with HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-[Add your live demo link here after deploying]
+[**Live Demo**: [https://to-do-list-bh69.vercel.app](https://to-do-list-bh69.vercel.app)]
 
 ## 🏃 How to Use
 
